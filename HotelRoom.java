@@ -1,5 +1,3 @@
-package CMPE_113;
-
 import java.util.Scanner;
 
 public class HotelRoom {
